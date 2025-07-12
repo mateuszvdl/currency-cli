@@ -76,7 +76,7 @@ This will launch the interactive command-line menu. Follow the on-screen prompts
 
 ```plaintext
 currency-cli/
-├── main.py               # Main script for menu interface and logic
+├── app.py                # Main script for menu interface and logic
 ├── kursy_walut.db        # SQLite database (created on first run)
 ├── archiwum_kursow.csv   # Exported CSV file (optional)
 ├── requirements.txt      # Python dependencies
