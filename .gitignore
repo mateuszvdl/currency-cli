@@ -1,0 +1,19 @@
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# CSV output files
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+venv/
+.venv/
+env/
+
+# Mac files
+.DS_Store
